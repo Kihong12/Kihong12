@@ -15,3 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github-readme-stats.vercel.app/api?username=sezeme&theme=algolia)" />
+
+
+**📗Solved.ac Tier📗**
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=clevermind2)](https://solved.ac/clevermind2)
