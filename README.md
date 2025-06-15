@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=sezeme&theme=algolia)" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kihong12&theme=algolia)" />
 
 
 **📗Solved.ac Tier📗**
